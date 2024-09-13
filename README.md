@@ -10,7 +10,7 @@ O objetivo deste projeto é realizar uma análise exploratória de dados (EDA) n
  - **Dados**:
   - Git Hub ([Link](https://github.com/andre-marcos-perez/ebac-course-utils)).
  - **Processamento**:
-  - Kaggle Notebook [Link]().
+  - Kaggle Notebook [Link](https://www.kaggle.com/code/vinciusoliveirap1/analise-sql-na-aws).
 
 
 1.2. DADOS
